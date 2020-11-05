@@ -1,5 +1,5 @@
 # zimuzu-action
-字幕组人人影视action自动签到
+字幕组人人影视action自动签到 
 
 * https://gist.github.com/BFDZ/a0167680e246f0be3248c9748b81d2ef
 
